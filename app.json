@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie_Chechi2.0",
+  "name": "https://github.com/mrmallufilims/Marie_Chechi2.0.git",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/mrmallufilims/Marie_Chechi2.0.git",
+  "repository": "https://github.com/mrmallufilims/Marie_Chechi2.0",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
